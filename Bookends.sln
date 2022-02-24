@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookends", "Bookends.csproj", "{DC0AF017-5899-47FA-A290-8347AF6BA2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0AF017-5899-47FA-A290-8347AF6BA2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0AF017-5899-47FA-A290-8347AF6BA2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0AF017-5899-47FA-A290-8347AF6BA2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0AF017-5899-47FA-A290-8347AF6BA2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
